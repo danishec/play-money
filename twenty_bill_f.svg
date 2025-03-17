@@ -8,7 +8,7 @@
    version="1.1"
    id="svg1"
    inkscape:version="1.4 (86a8ad7, 2024-10-11)"
-   sodipodi:docname="tda_play_cash_twenty_bill_f.svg"
+   sodipodi:docname="twenty_bill_f.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -25,9 +25,9 @@
      inkscape:deskcolor="#505050"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="1.0592242"
-     inkscape:cx="-355.92088"
-     inkscape:cy="457.41025"
+     inkscape:zoom="2.1184484"
+     inkscape:cx="749.36921"
+     inkscape:cy="226.3449"
      inkscape:window-width="3440"
      inkscape:window-height="1369"
      inkscape:window-x="1912"
@@ -36,15 +36,6 @@
      inkscape:current-layer="layer1" />
   <defs
      id="defs1">
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#swatch67"
-       id="linearGradient67"
-       x1="0.61791754"
-       y1="89.680222"
-       x2="288.61725"
-       y2="89.680222"
-       gradientUnits="userSpaceOnUse" />
     <linearGradient
        id="swatch67"
        inkscape:swatch="solid"
@@ -306,7 +297,7 @@
          id="g1"
          transform="translate(-0.61756754,-17.680229)">
         <rect
-           style="display:inline;fill:url(#linearGradient67);fill-opacity:1;stroke:url(#linearGradient81);stroke-width:14.3131;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+           style="display:inline;fill:#fff9b3;fill-opacity:1;stroke:url(#linearGradient81);stroke-width:14.3131;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
            id="rect2"
            width="273.68625"
            height="129.68622"

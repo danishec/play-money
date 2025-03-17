@@ -8,7 +8,7 @@
    version="1.1"
    id="svg1"
    inkscape:version="1.4 (86a8ad7, 2024-10-11)"
-   sodipodi:docname="tda_play_cash_twenty_bill_b.svg"
+   sodipodi:docname="twenty_bill_b.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -25,9 +25,9 @@
      inkscape:deskcolor="#505050"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="1.0592242"
-     inkscape:cx="133.58834"
-     inkscape:cy="466.85112"
+     inkscape:zoom="11.983754"
+     inkscape:cx="104.01582"
+     inkscape:cy="89.996842"
      inkscape:window-width="3440"
      inkscape:window-height="1369"
      inkscape:window-x="1912"
@@ -36,6 +36,14 @@
      inkscape:current-layer="layer1" />
   <defs
      id="defs1">
+    <linearGradient
+       id="swatch4"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#0e8547;stop-opacity:1;"
+         offset="0"
+         id="stop4" />
+    </linearGradient>
     <linearGradient
        inkscape:collect="always"
        xlink:href="#swatch33"
@@ -198,6 +206,15 @@
        y1="-500"
        x2="891.46393"
        y2="-500" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#swatch32"
+       id="linearGradient4"
+       x1="2256.3286"
+       y1="1965.6866"
+       x2="4496.5137"
+       y2="1965.6866"
+       gradientUnits="userSpaceOnUse" />
   </defs>
   <g
      inkscape:label="Layer 1"
@@ -293,7 +310,7 @@
         <path
            d="M 2592.7128,3021.9423 V 1789.725 h 223.9168 v 1232.2173 z m 671.7501,0 V 1789.725 h 223.9164 v 1232.2173 z m -1007.6249,704.124 v -352.062 h 2239.1662 v 352.062 z m 1679.3746,-704.124 V 1789.725 h 223.9168 V 3021.9423 Z M 2256.838,1437.663 V 1085.601 L 3376.4211,205.44575 4496.0042,1085.601 v 352.062 z m 498.2144,-352.062 h 1242.7374 z m 0,0 H 3997.7898 L 3376.4211,601.51564 Z"
            id="path1-8-3"
-           style="fill:url(#linearGradient31);fill-opacity:1;stroke:#0e8547;stroke-width:1.01906;stroke-dasharray:none;stroke-opacity:1" />
+           style="fill:url(#linearGradient31);fill-opacity:1;stroke:url(#linearGradient4);stroke-width:1.01906;stroke-dasharray:none;stroke-opacity:1" />
       </g>
     </g>
   </g>
