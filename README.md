@@ -17,8 +17,7 @@ The images were created in Inkscape as an accompaniment to the [Ten Dollar Adven
 
 ## Formats
 
-+ _bill_ are individual notes in 2:1 aspect ratio
-  _f (front) and _b (back) designs
++ _bill vectors are individual notes in 2:1 aspect ratio:  _f (front) and _b (back) designs
 
 + _sheet sheets contain 10 notes in US Letter document size: 8.5 x 11 in. 
 
