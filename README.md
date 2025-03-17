@@ -4,7 +4,7 @@ Vector images in SVG format for printable play money.
 
 No currency symbols or names are used to make the money universally applicable. 
 
-The images were created in Inkscape as an accompaniment to the [Ten Dollar Adventure](https://tendollaradventure.com) children's book, and associated [financial literacy lesson plans](https://tendollaradventure.com/printables/) for children in the K-5 grade segment (~ 6-11 years old). 
+The images were created in [Inkscape](https://inkscape.org) as an accompaniment to the [Ten Dollar Adventure](https://tendollaradventure.com) children's book, and associated [financial literacy lesson plans](https://tendollaradventure.com/printables/) for children in the K-5 grade segment (~ 6-11 years old). 
 
 
 ## Denominations
