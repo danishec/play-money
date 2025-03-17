@@ -8,7 +8,7 @@ The images were created in [Inkscape](https://inkscape.org) as an accompaniment 
 
 ## Denominations
 
-+ 1
+### 1
 <picture>
 <img alt="play money bill, 10 unit denomination" src="one_bill_f.svg" />
 </picture>
@@ -17,7 +17,7 @@ The images were created in [Inkscape](https://inkscape.org) as an accompaniment 
 <img alt="play money bill, 10 unit denomination" src="one_bill_b.svg" />
 </picture>
 
-+ 5
+### 5
 <picture>
 <img alt="play mfivey bill, 10 unit denomination" src="five_bill_f.svg" />
 </picture>
@@ -26,7 +26,7 @@ The images were created in [Inkscape](https://inkscape.org) as an accompaniment 
 <img alt="play mfivey bill, 10 unit denomination" src="five_bill_b.svg" />
 </picture>
 
-+ 10
+### 10
 <picture>
 <img alt="play mteny bill, 10 unit denomination" src="ten_bill_f.svg" />
 </picture>
@@ -36,7 +36,7 @@ The images were created in [Inkscape](https://inkscape.org) as an accompaniment 
 </picture>
 
 
-+ 20
+### 20
 <picture>
 <img alt="play mtwentyy bill, 10 unit denomination" src="twenty_bill_f.svg" />
 </picture>
@@ -46,7 +46,7 @@ The images were created in [Inkscape](https://inkscape.org) as an accompaniment 
 </picture>
 
 
-+ 100
+### 100
 <picture>
 <img alt="play mhundredy bill, 10 unit denomination" src="hundred_bill_f.svg" />
 </picture>

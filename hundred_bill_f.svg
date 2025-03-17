@@ -8,7 +8,7 @@
    version="1.1"
    id="svg1"
    inkscape:version="1.4 (86a8ad7, 2024-10-11)"
-   sodipodi:docname="tda_play_cash_hundred_bill_f.svg"
+   sodipodi:docname="hundred_bill_f.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -32,18 +32,26 @@
      inkscape:window-x="1912"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1" />
+     inkscape:current-layer="g3"
+     showgrid="false" />
   <defs
      id="defs1">
     <linearGradient
-       inkscape:collect="always"
-       xlink:href="#swatch91"
-       id="linearGradient91"
-       x1="0.61791754"
-       y1="89.680222"
-       x2="288.61725"
-       y2="89.680222"
-       gradientUnits="userSpaceOnUse" />
+       id="swatch2"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#cfb6d9;stop-opacity:0.75;"
+         offset="0"
+         id="stop2" />
+    </linearGradient>
+    <linearGradient
+       id="swatch1"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#cfb6d9;stop-opacity:0.75;"
+         offset="0"
+         id="stop1" />
+    </linearGradient>
     <linearGradient
        id="swatch91"
        inkscape:swatch="solid"
@@ -296,7 +304,7 @@
          id="g1"
          transform="translate(-0.61756754,-17.680229)">
         <rect
-           style="display:inline;fill:url(#linearGradient91);fill-opacity:1;stroke:url(#linearGradient90);stroke-width:14.3131;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+           style="display:inline;fill:#cfb6d9;fill-opacity:1;stroke:url(#linearGradient90);stroke-width:14.31307105;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
            id="rect2"
            width="273.68625"
            height="129.68622"
