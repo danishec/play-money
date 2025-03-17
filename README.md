@@ -6,8 +6,9 @@ No currency symbols or names are used to make the money universally applicable.
 
 The images were created in [Inkscape](https://inkscape.org) as an accompaniment to the [Ten Dollar Adventure](https://tendollaradventure.com) children's book, and associated [financial literacy lesson plans](https://tendollaradventure.com/printables/) for children in the K-5 grade segment (~ 6-11 years old). 
 
-## Example 
+## Denominations
 
++ 1
 <picture>
 <img alt="play money bill, 10 unit denomination" src="one_bill_f.svg" />
 </picture>
@@ -16,14 +17,44 @@ The images were created in [Inkscape](https://inkscape.org) as an accompaniment 
 <img alt="play money bill, 10 unit denomination" src="one_bill_b.svg" />
 </picture>
 
-
-## Denominations
-
-+ 1
 + 5
+<picture>
+<img alt="play mfivey bill, 10 unit denomination" src="five_bill_f.svg" />
+</picture>
+
+<picture>
+<img alt="play mfivey bill, 10 unit denomination" src="five_bill_b.svg" />
+</picture>
+
 + 10
+<picture>
+<img alt="play mteny bill, 10 unit denomination" src="ten_bill_f.svg" />
+</picture>
+
+<picture>
+<img alt="play mteny bill, 10 unit denomination" src="ten_bill_b.svg" />
+</picture>
+
+
 + 20
+<picture>
+<img alt="play mtwentyy bill, 10 unit denomination" src="twenty_bill_f.svg" />
+</picture>
+
+<picture>
+<img alt="play mtwentyy bill, 10 unit denomination" src="twenty_bill_b.svg" />
+</picture>
+
+
 + 100
+<picture>
+<img alt="play mhundredy bill, 10 unit denomination" src="hundred_bill_f.svg" />
+</picture>
+
+<picture>
+<img alt="play mhundredy bill, 10 unit denomination" src="hundred_bill_b.svg" />
+</picture>
+
 
 ## Formats
 
